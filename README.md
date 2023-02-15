@@ -10,9 +10,9 @@ This challenge had three components to it:
 - Data Analysis
 
 ## Data Modeling
-After reviewing the six CSV files, I sketched an Entity Relationship Diagram of the tables using QuickDBD.
-
-INSERT IMAGE
+After reviewing the six CSV files, I sketched an Entity Relationship Diagram of the tables using QuickDBD. 
+- The image is saved as Data Modeling - sql-challenge - QuickDBD.PNG
+- The information for the image is saved as Data Modeling - sql-challenge - QuickDBD.pdf
 
 ## Data Engineering
 Created a table schema for each of the six CSV files. I specified data gypes, primary keys, foreign keys, and other constraints then uploaded the information from each CSV into it's corresponding SQL table so I could analyze the data.
@@ -32,12 +32,13 @@ The data analysis section focused on using the information compiled and answerin
 I attended class, watched class recordings and reviewed my notes for the support needed for this challenge assignment.
 
 ## Submission Includes
-#### Data Modeling Image:
-* Data Modeling - QuickDBD.png
+#### Data Modeling:
+* Image: Data Modeling - sql-challenge - QuickDBD.PNG
+* Information: Data Modeling - sql-challenge - QuickDBD.pdf
 #### Data Engineering and Analysis Code:
 * sql-challenge - Table Schemata - LJordan.sql
 * sql-challenge - Queries - LJordan.sql
-* Export of the results for each business question
+* CSV exports of the results for each business question are stored in the Query Results folder
    - Data Analysis - Question 1 Results.csv
    - Data Analysis - Question 2 Results.csv
    - Data Analysis - Question 3 Results.csv
